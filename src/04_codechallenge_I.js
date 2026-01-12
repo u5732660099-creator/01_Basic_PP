@@ -8,7 +8,7 @@ Berechnen Sie die Summe der beiden Zahlen.
 Geben Sie die Summe der Zahlen in die Konsole aus:
 "Die Summe der Zahlen ist: summe"
 */
-
+// hier ist eine änderung
 const prompt = require('prompt-sync')({sigint: true});
 
 /*********** Variante 1  ****************/
